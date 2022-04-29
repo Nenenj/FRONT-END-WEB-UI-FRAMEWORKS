@@ -59,14 +59,7 @@ body {
     min-height: 300px;
   }
 
-  .modal-title {
-    color: black;
-
-  }
-
- .modal-body {
-   color: black;
- }
+  
  
  #carouselButton {
    right: 0px;
@@ -74,3 +67,23 @@ body {
    bottom: 0px;
    z-index: 1;
  }
+
+ .modal-title {
+  color: black;
+
+}
+
+.modal-body {
+ color: black;
+ background-color: #512DA8;
+
+}
+
+.modal-header {
+   background-color: #512DA8;
+ 
+}
+
+.close {
+  color: floralwhite;
+}
